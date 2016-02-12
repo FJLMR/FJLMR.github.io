@@ -1,1 +1,1 @@
-FJLMR Website hosted by github.com
+FJLMR website hosted by github.com
